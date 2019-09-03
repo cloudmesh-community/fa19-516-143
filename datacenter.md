@@ -32,13 +32,13 @@ A continuation of Microsoft's concept is seen in Germany's WasfalenWind-Group, a
 centers inside wind turbines (5). This project was announced in 2018, and is project aimed primarily at cloud services, 
 using 62U server racks in each turbine, with 92% of the power coming from home turbine (5).
 
-1 Wind-Powered Data Centers. (2010) Retrieved from https://www.datacenterknowledge.com/wind-powered-data-centers
-2 Google said to be planning $600m wind powered data center in the land of lakes. (2019) Retrieved from: 
+1. Wind-Powered Data Centers. (2010) Retrieved from https://www.datacenterknowledge.com/wind-powered-data-centers
+2. Google said to be planning $600m wind powered data center in the land of lakes. (2019) Retrieved from: 
 https://www.datacenterknowledge.com/google-alphabet/google-said-be-planning-600m-wind-powered-data-center-land-lakes
-3 Green Data Centers. Retrieved from: https://www.greenhousedata.com/green-data-centers
-4 Microsoft unveils wind-powered containers. (2008) Retrieved from: 
+3. Green Data Centers. Retrieved from: https://www.greenhousedata.com/green-data-centers
+4. Microsoft unveils wind-powered containers. (2008) Retrieved from: 
 https://www.datacenterknowledge.com/archives/2008/04/18/microsoft-unveils-wind-powered-containers
-5 WindCores project deploys small data centers inside wind turbines. (2018) Retrieved from: 
+5. WindCores project deploys small data centers inside wind turbines. (2018) Retrieved from: 
 https://www.datacenterdynamics.com/news/windcores-project-deploys-small-data-centers-inside-wind-turbines/
 
 5. I picked Germany
@@ -54,11 +54,11 @@ solar (5.1%), and hydropower (3.5%) (2).  In contrast, power from lignite coal w
 Germany is working on providing cloud data centers inside of individual wind turbines (3), which have 92% of their power 
 coming from the host turbine (with the rest coming from redundant power sources and other turbines) (3).
 
-1) U.S. Energy Information Administration. Germany (2016). Retrieved from: 
+1. U.S. Energy Information Administration. Germany (2016). Retrieved from: 
 https://www.eia.gov/beta/international/analysis.php?iso=DEU
-2) Renewables Generated a Record 65 Percent of Germany's Electricity Last Week. (2019) Retrieved from: 
+2. Renewables Generated a Record 65 Percent of Germany's Electricity Last Week. (2019) Retrieved from: 
 https://e360.yale.edu/digest/renewables-generated-a-record-65-percent-of-germanys-electricity-last-week
-3) WindCores project deploys small data centers inside wind turbines. (2018) Retrieved from: 
+3. WindCores project deploys small data centers inside wind turbines. (2018) Retrieved from: 
 https://www.datacenterdynamics.com/news/windcores-project-deploys-small-data-centers-inside-wind-turbines/
 
 8. Data Center Outage: Reddit outage 8/31/19
@@ -72,10 +72,10 @@ https://downdetector.com/status/reddit/news/264740-problems-at-reddit-14).  As r
 facebook, so financial impact to users was limited.  However, Reddit is largely monitized by ads (4), but no value per 
 hour was able to be found.
 
-1 Reddit experienceing outage due to Amazon AWS Issue. (2019) Retrieved from: 
+1. Reddit experienceing outage due to Amazon AWS Issue. (2019) Retrieved from: 
 https://www.bleepingcomputer.com/news/technology/reddit-experiencing-outage-due-to-amazon-aws-issue/
-2 Twiter Down, Thousands Reporting Outages. (2019) Retrieved from: 
+2. Twiter Down, Thousands Reporting Outages. (2019) Retrieved from: 
 https://popculture.com/trending/2019/08/31/twitter-down-thousands-reporting-outages/
-3 Problems at Reddit. (2019) Retrieved from https://downdetector.com/status/reddit/news/264740-problems-at-reddit-14
-4 How Reddit makes money. (2019) Retrieved from 
+3. Problems at Reddit. (2019) Retrieved from https://downdetector.com/status/reddit/news/264740-problems-at-reddit-14
+4. How Reddit makes money. (2019) Retrieved from 
 https://www.investopedia.com/articles/investing/093015/how-reddit-makes-money.asp
