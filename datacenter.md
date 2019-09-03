@@ -1,16 +1,27 @@
 **Ex2. data center energy usage**
 datacenters queried - IU Datacenter/Arkansas
+
 location - Bloomington, IN
+
 year -
+
 electricity cost -
+
 it load - 
+
 yearly cost - 
+
 yearly co2 footprint - 
+
+
 equivalent in co2 in cars - 
 
-**Ex3.** Reported on webdoc - 36,817 lbs of Carbone (I fly a lot for work) 
+**Ex3.** 
+
+Reported on webdoc - 36,817 lbs of Carbone (I fly a lot for work) 
 
 **Ex4. I will cover "wind" (7 mod 6)**
+
 Data centers powered by wind come in two varieties - those that are powered by utility power that is sourced from 
 wind generators and those that are powered directly by on-site wind generators (1).  
 
@@ -42,6 +53,7 @@ https://www.datacenterknowledge.com/archives/2008/04/18/microsoft-unveils-wind-p
 https://www.datacenterdynamics.com/news/windcores-project-deploys-small-data-centers-inside-wind-turbines/
 
 **Ex5. I picked Germany**
+
 Germany was the largest energy consumer in Europe and the 7th in the world in 2015 (1), but required imports (1) to 
 drive it's coal and nuclear power structure (2).  The government set a goal to obtain 65% of its electricity from 
 renewable power by 2030 (2) and 80% by 2050 (1), partly characterised by it's Energiewend project to phase out coal 
@@ -62,6 +74,7 @@ https://e360.yale.edu/digest/renewables-generated-a-record-65-percent-of-germany
 https://www.datacenterdynamics.com/news/windcores-project-deploys-small-data-centers-inside-wind-turbines/
 
 **Ex8. Data Center Outage: Reddit outage 8/31/19**
+
 Amazon Web Services hosts the popular online forum Reddit (1).  Unlike Twitter's outage on the same day (2), this outage 
 was not related to high traffic on a U.S. holiday.  Reddit was down in Northern Europe, parts of Asia, North America, and 
 Southern Australia (map at www.bleepingcomputer.com/news/technology/reddit-experiencing-outage-due-to-amazon-aws-issue/). 
