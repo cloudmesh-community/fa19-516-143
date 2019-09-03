@@ -54,11 +54,11 @@ solar (5.1%), and hydropower (3.5%) (2).  In contrast, power from lignite coal w
 Germany is working on providing cloud data centers inside of individual wind turbines (3), which have 92% of their power 
 coming from the host turbine (with the rest coming from redundant power sources and other turbines) (3).
 
-1 U.S. Energy Information Administration. Germany (2016). Retrieved from: 
+1) U.S. Energy Information Administration. Germany (2016). Retrieved from: 
 https://www.eia.gov/beta/international/analysis.php?iso=DEU
-2 Renewables Generated a Record 65 Percent of Germany's Electricity Last Week. (2019) Retrieved from: 
+2) Renewables Generated a Record 65 Percent of Germany's Electricity Last Week. (2019) Retrieved from: 
 https://e360.yale.edu/digest/renewables-generated-a-record-65-percent-of-germanys-electricity-last-week
-3 WindCores project deploys small data centers inside wind turbines. (2018) Retrieved from: 
+3) WindCores project deploys small data centers inside wind turbines. (2018) Retrieved from: 
 https://www.datacenterdynamics.com/news/windcores-project-deploys-small-data-centers-inside-wind-turbines/
 
 8. Data Center Outage: Reddit outage 8/31/19
