@@ -1,5 +1,6 @@
 # Data Center 
 
+* :o2: leran how to use urls in markdown
 * :o2: please improve formating of markdown, (more epmpty lines
 * :o2: please use exact labels we use in the book
 * :o2: future: create bibtex entries for your refernces in a file called refernces.bib, use the labels here
