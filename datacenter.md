@@ -6,16 +6,26 @@
 * :o2: future: create bibtex entries for your refernces in a file called refernces.bib, use the labels here
 * :o2: future: we like that you contribute the section about Germany to the book via a pull request. However we like that you aslo reserach how dataenters are managed in germany regarding green energy
 
+Will do - I was still in process of working on this, as I only had two days time to work on it!
+
 ## Ex2. data center energy usage
 
-* datacenters queried - IU Datacenter/Arkansas
-* location - Bloomington, IN
-* year -
-* electricity cost -
-* it load - 
-* yearly cost - 
-* yearly co2 footprint - 
-* equivalent in co2 in cars - 
+data center - University of Arkansas, ADSB Data Center
+As per the Data Center Facilities Manager, Charles M. Dwyer:
+HPC systems usage = 239kva
+All other systems usage = 128kva
+
+This does not include the required cooling.
+
+"Unfortunately, the Data Center is not metered separately and is just included with the entire ADSB building usage.  We don’t have access to the building stats but this may be available from FAMA.  Sorry, all this was setup back in the early 1980’s and there is not a good way to measure or meter what our IT power consumption is." - Charles Dwyer
+
+This DC is powered by coal through SWEPCO (as per David Chaffin of AHPCC) and produces ~1900lb CO2/MWh.
+
+I don't have a power factor rating, so I chose 1 (most efficient use of power), which converts the HPC system usage to 239KWh (0.239MWH) and 454.1lb CO2 (X cars) to run just the HPC, without cooling (which requires a LOT of power).
+
+As a note, I started doing this for IU's data center - but saw in lecture that someone else had covered it.  However, they're assumption that the two generators would be a good estimate is not accurate - the data center must have 100% redundant systems, so one generator could power the backup.  However, backup is only for a subset of the systems and does not account for all of the power draw on a regular basis, making the calculated number inaccurate. 
+
+Also, the IU DC is getting second power in this year, doubling capacity.  Meaning a generator twice the size of the current ones is being installed to maintain this redundancy.  If I get more accurate numbers from the manager, I will report them, for the interest of including information in the course book. 
 
 ## Ex3
 
