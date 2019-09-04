@@ -1,13 +1,5 @@
 # Data Center 
 
-* :o2: leran how to use urls in markdown
-* :o2: please improve formating of markdown, (more epmpty lines
-* :o2: please use exact labels we use in the book
-* :o2: future: create bibtex entries for your refernces in a file called refernces.bib, use the labels here
-* :o2: future: we like that you contribute the section about Germany to the book via a pull request. However we like that you aslo reserach how dataenters are managed in germany regarding green energy
-
-Will do - I was still in process of working on this, as I only had two days time to work on it!
-
 ## Ex2. data center energy usage
 
 data center - University of Arkansas, ADSB Data Center
