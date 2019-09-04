@@ -1,6 +1,8 @@
 # Data Center 
 
-## Ex2. data center energy usage
+
+
+## E.Datacenter.2 Data center energy usage
 
 data center - University of Arkansas, ADSB Data Center
 As per the Data Center Facilities Manager, Charles M. Dwyer:
@@ -19,12 +21,12 @@ As a note, I started doing this for IU's data center - but saw in lecture that s
 
 Also, the IU DC is getting second power in this year, doubling capacity.  Meaning a generator twice the size of the current ones is being installed to maintain this redundancy.  If I get more accurate numbers from the manager, I will report them, for the interest of including information in the course book. 
 
-## Ex3
+## E.Datacenter.3
 
 Reported on webdoc - 36,817 lbs of Carbone (I fly a lot for work) 
 
 
-## Ex4. I will cover "wind" (7 mod 6)
+## E.Datacenter.4 Wind (7 mod 6)
 
 Data centers powered by wind come in two varieties - those that are
 powered by utility power that is sourced from wind generators and those
@@ -60,7 +62,7 @@ https://www.datacenterknowledge.com/archives/2008/04/18/microsoft-unveils-wind-p
 5. WindCores project deploys small data centers inside wind turbines. (2018) Retrieved from: 
 https://www.datacenterdynamics.com/news/windcores-project-deploys-small-data-centers-inside-wind-turbines/
 
-## Ex5. I picked Germany
+## E.Datacenter.5 Germany
 
 Germany was the largest energy consumer in Europe and the 7th in the world in 2015 (1), but required imports (1) to 
 drive it's coal and nuclear power structure (2).  The government set a goal to obtain 65% of its electricity from 
@@ -81,7 +83,7 @@ https://e360.yale.edu/digest/renewables-generated-a-record-65-percent-of-germany
 3. WindCores project deploys small data centers inside wind turbines. (2018) Retrieved from: 
 https://www.datacenterdynamics.com/news/windcores-project-deploys-small-data-centers-inside-wind-turbines/
 
-## Ex8. Data Center Outage: Reddit outage 8/31/19
+## E.Datacenter.8 Data Center Outage: Reddit outage 8/31/19
 
 Amazon Web Services hosts the popular online forum Reddit (1).  Unlike Twitter's outage on the same day (2), this outage 
 was not related to high traffic on a U.S. holiday.  Reddit was down in Northern Europe, parts of Asia, North America, and 
