@@ -60,7 +60,7 @@ https://www.datacenterknowledge.com/archives/2008/04/18/microsoft-unveils-wind-p
 5. WindCores project deploys small data centers inside wind turbines. (2018) Retrieved from: 
 https://www.datacenterdynamics.com/news/windcores-project-deploys-small-data-centers-inside-wind-turbines/
 
-## Ex5. I picked Germany**
+## Ex5. I picked Germany
 
 Germany was the largest energy consumer in Europe and the 7th in the world in 2015 (1), but required imports (1) to 
 drive it's coal and nuclear power structure (2).  The government set a goal to obtain 65% of its electricity from 
@@ -81,7 +81,7 @@ https://e360.yale.edu/digest/renewables-generated-a-record-65-percent-of-germany
 3. WindCores project deploys small data centers inside wind turbines. (2018) Retrieved from: 
 https://www.datacenterdynamics.com/news/windcores-project-deploys-small-data-centers-inside-wind-turbines/
 
-## Ex8. Data Center Outage: Reddit outage 8/31/19**
+## Ex8. Data Center Outage: Reddit outage 8/31/19
 
 Amazon Web Services hosts the popular online forum Reddit (1).  Unlike Twitter's outage on the same day (2), this outage 
 was not related to high traffic on a U.S. holiday.  Reddit was down in Northern Europe, parts of Asia, North America, and 
