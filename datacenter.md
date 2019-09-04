@@ -21,7 +21,7 @@ This does not include the required cooling.
 
 This DC is powered by coal through SWEPCO (as per David Chaffin of AHPCC) and produces ~1900lb CO2/MWh.
 
-I don't have a power factor rating, so I chose 1 (most efficient use of power), which converts the HPC system usage to 239KWh (0.239MWH) and 454.1lb CO2 (X cars) to run just the HPC, without cooling (which requires a LOT of power).
+I don't have a power factor rating, so I chose 1 (most efficient use of power), which converts the HPC system usage to 239KWh (0.239MWH) and 454.1lb CO2 to run just the HPC, without cooling (which requires a LOT of power).
 
 As a note, I started doing this for IU's data center - but saw in lecture that someone else had covered it.  However, they're assumption that the two generators would be a good estimate is not accurate - the data center must have 100% redundant systems, so one generator could power the backup.  However, backup is only for a subset of the systems and does not account for all of the power draw on a regular basis, making the calculated number inaccurate. 
 
