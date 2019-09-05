@@ -1,6 +1,4 @@
-# Data Center 
-
-
+# Datacenter 
 
 ## E.Datacenter.2 Data center energy usage
 
