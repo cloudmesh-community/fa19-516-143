@@ -62,24 +62,28 @@ https://www.datacenterdynamics.com/news/windcores-project-deploys-small-data-cen
 
 ## E.Datacenter.5 Germany
 
-Germany was the largest energy consumer in Europe and the 7th in the world in 2015 [@www-eia-gov-germany], but required imports [@www-eia-gov-germany] to 
-drive it's coal and nuclear power structure (2).  The government set a goal to obtain 65% of its electricity from 
-renewable power by 2030 (2) and 80% by 2050 [@www-eia-gov-germany], partly characterised by it's Energiewend project to phase out coal 
-and nuclear [@www-eia-gov-germany], including the closing of all nuclear plants by 2022 [@www-eia-gov-germany].  
+Germany was the largest energy consumer in Europe and the 7th in the
+world in 2015 [@www-eia-gov-germany], but required imports
+[@www-eia-gov-germany] to drive it's coal and nuclear power structure
+[@www-yale360-germany].  The government set a goal to obtain 65% of its
+electricity from renewable power by 2030 [@www-yale360-germany] and 80%
+by 2050 [@www-eia-gov-germany], partly characterised by it's Energiewend
+project to phase out coal and nuclear [@www-eia-gov-germany], including
+the closing of all nuclear plants by 2022 [@www-eia-gov-germany].
 
-These projects have been largely successful, with 30% of electricity coming from renewable sources in 2015 [@www-eia-gov-germany], 40.4% in
-2018 (2), and 65% in 2019 (2).  Of this, wind was the largest contributing source (48.4%), followed by biomass (7.6%), 
-solar (5.1%), and hydropower (3.5%) (2).  In contrast, power from lignite coal was down to 12% in 2019 from 24% in 2018 (2).
+These projects have been largely successful, with 30% of electricity
+coming from renewable sources in 2015 [@www-eia-gov-germany], 40.4% in
+2018 [@www-yale360-germany], and 65% in 2019 [@www-yale360-germany].  Of
+this, wind was the largest contributing source (48.4%), followed by
+biomass (7.6%), solar (5.1%), and hydropower (3.5%)
+[@www-yale360-germany].  In contrast, power from lignite coal was down
+to 12% in 2019 from 24% in 2018 [@www-yale360-germany].
 
-Germany is working on providing cloud data centers inside of individual wind turbines (3), which have 92% of their power 
-coming from the host turbine (with the rest coming from redundant power sources and other turbines) (3).
+Germany is working on providing cloud data centers inside of individual
+wind turbines [@www-windcores-turbines], which have 92% of their power coming from the host
+turbine (with the rest coming from redundant power sources and other
+turbines) [@www-windcores-turbines].
 
-1. U.S. Energy Information Administration. Germany (2016). Retrieved from: 
-<https://www.eia.gov/beta/international/analysis.php?iso=DEU>[@www-eia-gov-germany]
-2. Renewables Generated a Record 65 Percent of Germany's Electricity Last Week. (2019) Retrieved from: 
-https://e360.yale.edu/digest/renewables-generated-a-record-65-percent-of-germanys-electricity-last-week
-3. WindCores project deploys small data centers inside wind turbines. (2018) Retrieved from: 
-https://www.datacenterdynamics.com/news/windcores-project-deploys-small-data-centers-inside-wind-turbines/
 
 ## E.Datacenter.8 Data Center Outage: Reddit outage 8/31/19
 
