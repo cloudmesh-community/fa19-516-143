@@ -1,6 +1,6 @@
 # Datacenter fa19-516-143
 
-*o2: fix urls
+:o2: fix urls
 
 ## E.Datacenter.2 Data center energy usage
 
