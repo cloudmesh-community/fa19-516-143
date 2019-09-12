@@ -1,13 +1,14 @@
 # Datacenter fa19-516-143
 
-:o2: fix urls
 
 ## E.Datacenter.2 Data center energy usage
 
-data center - University of Arkansas, ADSB Data Center
+* data center - University of Arkansas, ADSB Data Center
+
 As per the Data Center Facilities Manager, Charles M. Dwyer:
-HPC systems usage = 239kva
-All other systems usage = 128kva
+
+* HPC systems usage = 239kva
+* All other systems usage = 128kva
 
 This does not include the required cooling.
 
