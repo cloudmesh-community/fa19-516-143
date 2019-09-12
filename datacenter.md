@@ -91,7 +91,7 @@ turbines) [@www-windcores-turbines].
 
 Amazon Web Services hosts the popular online forum Reddit (1).  Unlike Twitter's outage on the same day (2), this outage 
 was not related to high traffic on a U.S. holiday.  Reddit was down in Northern Europe, parts of Asia, North America, and 
-Southern Australia (map at <www.bleepingcomputer.com/news/technology/reddit-experiencing-outage-due-to-amazon-aws-issue/>). 
+Southern Australia (map at <http://www.bleepingcomputer.com/news/technology/reddit-experiencing-outage-due-to-amazon-aws-issue/>). 
 The outage lasted approximately six hours (1) and impacted seven Reddit companies - including desktop and mobile sites as 
 well as comment processing (1).  Downdectector.com reported 15,531 reports of the site being down within one hour and over 
 91,000 reports reported within the six hour outage (graph at 
